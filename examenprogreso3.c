@@ -53,5 +53,5 @@ void guardar(struct producto *prod){ //creamos una funcion de no retorno de dato
     {
         printf("Error al abrir el archivo.\n");
         return;
-    }
+    } //el dato void nos dara una explicacion del dato de no retorno que se ingresa
 }
