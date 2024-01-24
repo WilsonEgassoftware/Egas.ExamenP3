@@ -21,7 +21,7 @@ int main()
         printf("Seleccione una opcion: ");
         scanf("%d", &opcion);//creamos la opciones que seran 3 en este ejercicio
 
-        switch (opcion)//opciones para obtener las opciones finales 
+        switch (opcion)//creamos las opciones para que puedan escogen eligiendo del 1 al 3
         {
         case 1:
             printf("Ingrese el nombre del producto:\n ");//pedimos el ingreso del nombre del prodcuto
